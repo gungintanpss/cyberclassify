@@ -1,0 +1,9 @@
+streamlit==1.56.0
+numpy==2.0.2
+pandas==2.2.2
+scikit-learn==1.6.1
+tensorflow==2.19.0
+tensorflow-hub==0.16.1
+nltk==3.9.1
+contractions==0.1.73
+langdetect==1.0.9

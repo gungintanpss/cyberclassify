@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+env/
+.env/
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
